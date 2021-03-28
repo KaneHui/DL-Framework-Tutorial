@@ -1,2 +1,2 @@
 # DL-Tutorial
-Create an Deep Learning Framework from the scratch
+Create a Deep Learning Framework from scratch
